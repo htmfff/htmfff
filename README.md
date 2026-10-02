@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander (Htmff)</h1>
-<img src="./banner.png" width="100%" alt="banner" />
+<img src="./banner.jpg" width="100%" alt="banner" />
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🔭 I’m currently working on [Crystall-AI-Assistent](https://github.com/htmfff/Crystall)
